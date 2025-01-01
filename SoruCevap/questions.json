@@ -1,294 +1,349 @@
 {
   "questions": [
     {
-      "text": "Türkiye'nin başkenti neresidir?",
-      "options": ["İstanbul", "Ankara", "İzmir", "Bursa"],
-      "correctAnswer": "Ankara"
+      "text": "Galatasaray Futbol Kulübü hangi tarihte kurulmuştur?",
+      "options": ["1905", "1907", "1911", "1923"],
+      "correctAnswer": "1905"
     },
     {
-      "text": "Türk bayrağının renkleri hangileridir?",
-      "options": ["Kırmızı-Beyaz", "Mavi-Beyaz", "Sarı-Kırmızı", "Yeşil-Beyaz"],
-      "correctAnswer": "Kırmızı-Beyaz"
+      "text": "Galatasaray Futbol Kulübü hangi lisede kurulmuştur?",
+      "options": ["Vefa Lisesi", "Kabataş Erkek Lisesi", "Pertevniyal Lisesi", "Galatasaray Lisesi"],
+      "correctAnswer": "Galatasaray Lisesi"
     },
     {
-      "text": "Türkiye'nin nüfusu en fazla olan şehri hangisidir?",
-      "options": ["İstanbul", "Ankara", "İzmir", "Bursa"],
-      "correctAnswer": "İstanbul"
+      "text": "Galatasaray'ın kulüp renkleri hangileridir?",
+      "options": ["Siyah-Beyaz", "Kırmızı-Beyaz", "Sarı-Kırmızı", "Lacivert-Beyaz"],
+      "correctAnswer": "Sarı-Kırmızı"
     },
     {
-      "text": "Türkiye hangi iki kıtada toprağa sahiptir?",
-      "options": ["Asya ve Avrupa", "Afrika ve Avrupa", "Asya ve Amerika", "Afrika ve Asya"],
-      "correctAnswer": "Asya ve Avrupa"
+      "text": "Galatasaray'ı kuran isim kimdir?",
+      "options": ["Ali Sami Yen", "Şehzade Abdülmecid", "Burhan Felek", "Faik Üstünidman"],
+      "correctAnswer": "Ali Sami Yen"
     },
     {
-      "text": "Türkiye'nin en uzun nehri hangisidir?",
-      "options": ["Kızılırmak", "Fırat", "Dicle", "Sakarya"],
-      "correctAnswer": "Kızılırmak"
+      "text": "Galatasaray'ın ilk başkanı kimdir?",
+      "options": ["Faruk Süren", "Ünal Aysal", "Mustafa Cengiz", "Ali Sami Yen"],
+      "correctAnswer": "Ali Sami Yen"
     },
     {
-      "text": "Aşağıdakilerden hangisi Türkiye'deki coğrafi bölgelerden biri değildir?",
-      "options": ["Marmara", "Orta Anadolu", "Ege", "Karayipler"],
-      "correctAnswer": "Karayipler"
+      "text": "Galatasaray'ın 'Taçsız Kral' lakaplı efsane futbolcusu kimdir?",
+      "options": ["Hakan Şükür", "Metin Oktay", "Arif Erdem", "Tanju Çolak"],
+      "correctAnswer": "Metin Oktay"
     },
     {
-      "text": "Türk lirasının kısaltması nedir?",
-      "options": ["TL", "TR", "TK", "TY"],
-      "correctAnswer": "TL"
+      "text": "Galatasaray'ın taraftar gruplarından birinin adı nedir?",
+      "options": ["Çarşı", "Grup UltraAslan", "Şimşekler Grubu", "Genç Fenerbahçeliler"],
+      "correctAnswer": "Grup UltraAslan"
     },
     {
-      "text": "İstiklal Marşı'nın yazarı kimdir?",
-      "options": ["Mehmet Akif Ersoy", "Ziya Gökalp", "Ahmet Hamdi Tanpınar", "Yahya Kemal Beyatlı"],
-      "correctAnswer": "Mehmet Akif Ersoy"
-    },
-    {
-      "text": "Aşağıdaki şehirlerden hangisi Karadeniz Bölgesi'nde bulunur?",
-      "options": ["Trabzon", "Antalya", "Gaziantep", "Edirne"],
-      "correctAnswer": "Trabzon"
-    },
-    {
-      "text": "Aşağıdaki dağlardan hangisi Türkiye'de bulunmaz?",
-      "options": ["Ağrı Dağı", "Uludağ", "K2 Dağı", "Toroslar"],
-      "correctAnswer": "K2 Dağı"
-    },
-    {
-      "text": "Türkiye'nin en büyük yüzölçümüne sahip ili hangisidir?",
-      "options": ["Konya", "Ankara", "Sivas", "Mersin"],
-      "correctAnswer": "Konya"
-    },
-    {
-      "text": "Aşağıdakilerden hangisi Osmanlı padişahlarından biri değildir?",
+      "text": "Galatasaray Futbol Takımı maçlarını hangi stadyumda oynamaktadır?",
       "options": [
-        "Fatih Sultan Mehmet",
-        "Kanuni Sultan Süleyman",
-        "Sultan Abdülhamid II",
-        "Mustafa Kemal Atatürk"
+        "Ali Sami Yen Spor Kompleksi Nef Stadyumu",
+        "Şükrü Saracoğlu Stadyumu",
+        "Vodafone Park",
+        "Atatürk Olimpiyat Stadyumu"
       ],
-      "correctAnswer": "Mustafa Kemal Atatürk"
+      "correctAnswer": "Ali Sami Yen Spor Kompleksi Nef Stadyumu"
     },
     {
-      "text": "Türkiye'de 23 Nisan hangi bayram olarak kutlanır?",
+      "text": "Galatasaray'ın formasında kullandığı renkler ilk olarak ne ile anılmıştır?",
       "options": [
-        "Ulusal Egemenlik ve Çocuk Bayramı",
-        "Cumhuriyet Bayramı",
-        "Zafer Bayramı",
-        "Gençlik ve Spor Bayramı"
+        "Avrupa kartalı ve boğazın mavisi",
+        "Aslan sarısı ve kan kırmızısı",
+        "Lale devri ve İstanbul’un incisi",
+        "Sarı limon ve kırmızı domates"
       ],
-      "correctAnswer": "Ulusal Egemenlik ve Çocuk Bayramı"
+      "correctAnswer": "Aslan sarısı ve kan kırmızısı"
     },
     {
-      "text": "19 Mayıs hangi bayramdır?",
+      "text": "Galatasaray, 2000 yılında hangi Avrupa kupasını kazanarak büyük bir başarı elde etmiştir?",
+      "options": ["Şampiyonlar Ligi", "Kupa Galipleri Kupası", "UEFA Kupası", "Intertoto Kupası"],
+      "correctAnswer": "UEFA Kupası"
+    },
+    {
+      "text": "Galatasaray'ın UEFA Kupası’nı kazandığı 2000 yılındaki finalde karşılaştığı takım hangisidir?",
+      "options": ["Milan", "Real Madrid", "Arsenal", "Barcelona"],
+      "correctAnswer": "Arsenal"
+    },
+    {
+      "text": "Galatasaray'ın UEFA Kupası’nı kazandığı final maçı hangi şehirde oynanmıştır?",
+      "options": ["Kopenhag", "Roma", "Paris", "Münih"],
+      "correctAnswer": "Kopenhag"
+    },
+    {
+      "text": "Galatasaray'ın 2000 yılında UEFA Süper Kupası’nı kazandığı maçta rakibi hangi kulüptür?",
+      "options": ["Manchester United", "Liverpool", "Real Madrid", "Valencia"],
+      "correctAnswer": "Real Madrid"
+    },
+    {
+      "text": "Galatasaray'ın simge hayvanı hangisidir?",
+      "options": ["Aslan", "Kartal", "Boğa", "Kanarya"],
+      "correctAnswer": "Aslan"
+    },
+    {
+      "text": "Galatasaray'ın armasında yer alan harfler hangi anlamı taşır?",
       "options": [
-        "Gençlik ve Spor Bayramı",
-        "Ulusal Egemenlik ve Çocuk Bayramı",
-        "Zafer Bayramı",
-        "Cumhuriyet Bayramı"
+        "G ve S harfleri Galatasaray Spor’u simgeler",
+        "GLT harfleri, kurucu isimlerin baş harfleridir",
+        "I ve S harfleri İstanbul Spor’u simgeler",
+        "Tümü rastgele seçilen harflerdir"
       ],
-      "correctAnswer": "Gençlik ve Spor Bayramı"
+      "correctAnswer": "G ve S harfleri Galatasaray Spor’u simgeler"
     },
     {
-      "text": "Atatürk'ün doğum yeri neresidir?",
-      "options": ["Selanik", "Samsun", "Ankara", "İstanbul"],
-      "correctAnswer": "Selanik"
-    },
-    {
-      "text": "Aşağıdakilerden hangisi Cumhuriyet'in ilan edildiği yıldır?",
-      "options": ["1920", "1921", "1922", "1923"],
-      "correctAnswer": "1923"
-    },
-    {
-      "text": "Türkiye hangi yılda NATO'ya katılmıştır?",
-      "options": ["1950", "1952", "1960", "1974"],
-      "correctAnswer": "1952"
-    },
-    {
-      "text": "Ayasofya hangi ilimizdedir?",
-      "options": ["İstanbul", "Ankara", "Bursa", "Edirne"],
-      "correctAnswer": "İstanbul"
-    },
-    {
-      "text": "Pamukkale travertenleri hangi ilimizde yer alır?",
-      "options": ["Denizli", "Muğla", "Antalya", "İzmir"],
-      "correctAnswer": "Denizli"
-    },
-    {
-      "text": "Peri bacaları hangi ilimizde bulunur?",
-      "options": ["Nevşehir", "Kayseri", "Niğde", "Aksaray"],
-      "correctAnswer": "Nevşehir"
-    },
-    {
-      "text": "Mevlana Müzesi hangi ilimizdedir?",
-      "options": ["Konya", "Eskişehir", "Sivas", "Ankara"],
-      "correctAnswer": "Konya"
-    },
-    {
-      "text": "Türkiye'nin en büyük gölü hangisidir?",
-      "options": ["Van Gölü", "Tuz Gölü", "Beyşehir Gölü", "Sapanca Gölü"],
-      "correctAnswer": "Van Gölü"
-    },
-    {
-      "text": "Aşağıdakilerden hangisi Karadeniz'e kıyısı olan bir ülkedir?",
-      "options": ["Rusya", "Mısır", "Tunus", "Fas"],
-      "correctAnswer": "Rusya"
-    },
-    {
-      "text": "Türk Kurtuluş Savaşı hangi yıl başlamıştır?",
-      "options": ["1919", "1922", "1918", "1920"],
-      "correctAnswer": "1919"
-    },
-    {
-      "text": "Osmanlı Devleti hangi olay sonrası yıkılmıştır?",
+      "text": "Galatasaray'ın kulüp mottosu olarak bilinen kısa söz hangisidir?",
       "options": [
-        "I. Dünya Savaşı",
-        "Kurtuluş Savaşı",
-        "Balkan Savaşları",
-        "Trablusgarp Savaşı"
+        "\"Asla Yalnız Yürümeyeceksin\"",
+        "\"Tek Büyük Galatasaray\"",
+        "\"Hep Destek Tam Destek\"",
+        "\"Şanlı Galatasaray\""
       ],
-      "correctAnswer": "I. Dünya Savaşı"
+      "correctAnswer": "\"Tek Büyük Galatasaray\""
     },
     {
-      "text": "Türkiye'de en yaygın din hangisidir?",
-      "options": ["İslam", "Hristiyanlık", "Yahudilik", "Budizm"],
-      "correctAnswer": "İslam"
+      "text": "Galatasaray'ın en çok gol atan efsane forveti olarak bilinen futbolcu kimdir?",
+      "options": ["Hakan Şükür", "Burak Yılmaz", "Drogba", "Uğur Boral"],
+      "correctAnswer": "Hakan Şükür"
     },
     {
-      "text": "Aşağıdakilerden hangisi Türk mutfağından bir yemek değildir?",
-      "options": ["Mantı", "Sushi", "Kebap", "Lahmacun"],
-      "correctAnswer": "Sushi"
+      "text": "Galatasaray'ın tarihindeki unutulmaz teknik direktör, 'İmparator' lakabıyla da anılan isim kimdir?",
+      "options": ["Mustafa Denizli", "Fatih Terim", "Mircea Lucescu", "Erik Gerets"],
+      "correctAnswer": "Fatih Terim"
     },
     {
-      "text": "Aşağıdaki illerden hangisi Güneydoğu Anadolu Bölgesi'nde yer alır?",
-      "options": ["Diyarbakır", "Antalya", "İzmir", "Bolu"],
-      "correctAnswer": "Diyarbakır"
+      "text": "Galatasaray'ın UEFA Süper Kupa şampiyonluğunu kazandığı yıl hangisidir?",
+      "options": ["1996", "2000", "2002", "2005"],
+      "correctAnswer": "2000"
     },
     {
-      "text": "Hamlet adlı eser hangi ünlü yazara aittir?",
+      "text": "Galatasaray'ın 14 yıl boyunca başkanlık görevini üstlenen ilk başkanı kimdir?",
+      "options": ["Ali Sami Yen", "Faruk Süren", "Ünal Aysal", "Selahattin Beyazıt"],
+      "correctAnswer": "Ali Sami Yen"
+    },
+    {
+      "text": "Galatasaray, 'Süper Lig' tarihinde ilk şampiyonluğunu hangi yıl elde etmiştir?",
+      "options": ["1945", "1959", "1962", "1969"],
+      "correctAnswer": "1962"
+    },
+    {
+      "text": "Galatasaray'ın 'Taçsız Kral' lakabıyla anılan efsane golcüsü hangi dönemde forma giymiştir?",
       "options": [
-        "William Shakespeare",
-        "Fyodor Dostoyevski",
-        "Orhan Pamuk",
-        "Tolstoy"
+        "1950'ler ve 1960'lar",
+        "1970'ler ve 1980'ler",
+        "1990'lar",
+        "2000'ler"
       ],
-      "correctAnswer": "William Shakespeare"
+      "correctAnswer": "1950'ler ve 1960'lar"
     },
     {
-      "text": "Dünyanın en yüksek şelalesi hangi kıtadadır? (Angel Şelalesi)",
-      "options": ["Güney Amerika", "Asya", "Kuzey Amerika", "Avrupa"],
-      "correctAnswer": "Güney Amerika"
+      "text": "Galatasaray’ın efsane kalecilerinden biri olan ve 2000'de UEFA zaferinde pay sahibi olan Brezilyalı futbolcu kimdir?",
+      "options": ["Taffarel", "Muslera", "Mondragon", "Zubizarreta"],
+      "correctAnswer": "Taffarel"
     },
     {
-      "text": "Güneş Sistemindeki en büyük gezegen hangisidir?",
-      "options": ["Jüpiter", "Satürn", "Dünya", "Neptün"],
-      "correctAnswer": "Jüpiter"
+      "text": "Galatasaray'ın 2012-2013 Şampiyonlar Ligi çeyrek finalinde elendiği takım hangisidir?",
+      "options": ["Chelsea", "Real Madrid", "Juventus", "Bayern Münih"],
+      "correctAnswer": "Real Madrid"
     },
     {
-      "text": "Aşağıdaki gezegenlerden hangisi Güneş'e daha yakındır?",
-      "options": ["Venüs", "Mars", "Jüpiter", "Satürn"],
-      "correctAnswer": "Venüs"
+      "text": "Galatasaray'ın 2011-2012 sezonunda Süper Lig şampiyonluğunu ilan ettiği maç hangi rakibe karşı oynanmıştır?",
+      "options": ["Trabzonspor", "Fenerbahçe", "Beşiktaş", "Bursaspor"],
+      "correctAnswer": "Fenerbahçe"
     },
     {
-      "text": "İngiltere'nin başkenti neresidir?",
-      "options": ["Londra", "Berlin", "Paris", "Manchester"],
-      "correctAnswer": "Londra"
+      "text": "Galatasaray'ın 1988-1989 sezonunda Şampiyon Kulüpler Kupası'nda yarı finale yükselme başarısını gösterdiği turda hangi takımı elemiştir?",
+      "options": ["Monaco", "Juventus", "Steaua Bükreş", "PSV Eindhoven"],
+      "correctAnswer": "Monaco"
     },
     {
-      "text": "E = mc² formülünü geliştiren ünlü bilim insanı kimdir?",
-      "options": ["Albert Einstein", "Isaac Newton", "Marie Curie", "Nikola Tesla"],
-      "correctAnswer": "Albert Einstein"
-    },
-    {
-      "text": "Türk Edebiyatında millî romantizm akımının öncülerinden biri sayılan şair kimdir?",
+      "text": "Galatasaray taraftarının sıkça kullandığı, takıma destek sloganı hangisidir?",
       "options": [
-        "Mehmet Emin Yurdakul",
-        "Namık Kemal",
-        "Yunus Emre",
-        "Tevfik Fikret"
+        "\"Cim Bom Bom\"",
+        "\"Feda\"",
+        "\"Yaşa Be Fener\"",
+        "\"Aşk Seninle Başlar\""
       ],
-      "correctAnswer": "Mehmet Emin Yurdakul"
+      "correctAnswer": "\"Cim Bom Bom\""
     },
     {
-      "text": "Sümerler çivi yazısını ilk kullanan medeniyet olarak bilinir. Sümerler hangi bölgede yaşamıştır?",
-      "options": ["Mezopotamya", "Mısır", "Anadolu", "Yunanistan"],
-      "correctAnswer": "Mezopotamya"
+      "text": "Galatasaray, Ali Sami Yen Stadyumu'ndan yeni stadına hangi sezonda geçmiştir?",
+      "options": ["2008-2009", "2010-2011", "2011-2012", "2016-2017"],
+      "correctAnswer": "2010-2011"
     },
     {
-      "text": "Yarıçapı 7 olan bir dairenin alanı kaç birim²'dir? (π=3,14 alınız)",
-      "options": ["153,86", "150,72", "105,86", "49"],
-      "correctAnswer": "153,86"
-    },
-    {
-      "text": "Aşağıdakilerden hangisi Türk Halk Müziği sanatçısıdır?",
-      "options": ["Aşık Veysel", "Ajda Pekkan", "Tarkan", "Sezen Aksu"],
-      "correctAnswer": "Aşık Veysel"
-    },
-    {
-      "text": "'Hababam Sınıfı' filmini yöneten ünlü Türk sinemacısı kimdir?",
-      "options": ["Ertem Eğilmez", "Memduh Ün", "Kartal Tibet", "Atıf Yılmaz"],
-      "correctAnswer": "Ertem Eğilmez"
-    },
-    {
-      "text": "İzmir hangi coğrafi bölgemizdedir?",
+      "text": "Galatasaray ile Fenerbahçe arasındaki derbiye ne ad verilir?",
       "options": [
-        "Ege Bölgesi",
-        "Akdeniz Bölgesi",
-        "Marmara Bölgesi",
-        "İç Anadolu Bölgesi"
+        "Kadıköy Derbisi",
+        "Asya-Avrupa Derbisi",
+        "Kıtalararası Derbi",
+        "Boğaziçi Derbisi"
       ],
-      "correctAnswer": "Ege Bölgesi"
+      "correctAnswer": "Kıtalararası Derbi"
     },
     {
-      "text": "Matematikte mutlak değer hangi sembolle gösterilir?",
-      "options": ["| |", "# #", "()", "[]"],
-      "correctAnswer": "| |"
+      "text": "Galatasaray'ın 2002 yılında Şampiyonlar Ligi'nde grup aşamasında karşılaştığı ve 2-0 geriden 3-2 kazandığı unutulmaz maçtaki rakibi hangisidir?",
+      "options": ["Real Madrid", "Olympiakos", "Lokomotiv Moskova", "Barcelona"],
+      "correctAnswer": "Real Madrid"
     },
     {
-      "text": "İlk Çağ'da yazı hangi medeniyet tarafından bulunmuştur?",
-      "options": ["Sümerler", "Hititler", "Babiller", "Asurlular"],
-      "correctAnswer": "Sümerler"
-    },
-    {
-      "text": "Dünyanın en büyük okyanusu hangisidir?",
+      "text": "Galatasaray'ın Türkiye'de elde ettiği ilk resmi kupa hangisidir?",
       "options": [
-        "Pasifik Okyanusu",
-        "Atlantik Okyanusu",
-        "Hint Okyanusu",
-        "Arktik Okyanusu"
+        "Türkiye Kupası",
+        "Cumhurbaşkanlığı Kupası (Süper Kupa)",
+        "Başbakanlık Kupası",
+        "TSYD Kupası"
       ],
-      "correctAnswer": "Pasifik Okyanusu"
+      "correctAnswer": "Türkiye Kupası"
     },
     {
-      "text": "Ünlü matematikçi Pisagor (Pythagoras) hangi ülkede doğmuştur?",
-      "options": ["Yunanistan", "Mısır", "İtalya", "Türkiye"],
-      "correctAnswer": "Yunanistan"
+      "text": "Galatasaray’ın uzun süre forma giyen ve 'Reyiz' lakabı verilen oyuncusu kimdir?",
+      "options": ["Selçuk İnan", "Arda Turan", "Sabri Sarıoğlu", "Hakan Balta"],
+      "correctAnswer": "Sabri Sarıoğlu"
     },
     {
-      "text": "Altın Oran yaklaşık olarak hangi sayıya eşittir?",
-      "options": ["1,618", "1,414", "1,732", "3,141"],
-      "correctAnswer": "1,618"
+      "text": "Galatasaray’ın 2010-2011 sezonunda teknik direktörlüğünü yapan isim kimdir?",
+      "options": ["Fatih Terim", "Frank Rijkaard", "Roberto Mancini", "Hamza Hamzaoğlu"],
+      "correctAnswer": "Frank Rijkaard"
     },
     {
-      "text": "Suyun donma noktası kaç derecedir?",
-      "options": ["0°C", "32°C", "100°C", "-1°C"],
-      "correctAnswer": "0°C"
+      "text": "Galatasaray’ın UEFA Kupası’nı kazanmadan önce yarı finalde eşleştiği İngiliz takımı hangisidir?",
+      "options": ["Leeds United", "Chelsea", "Arsenal", "Aston Villa"],
+      "correctAnswer": "Leeds United"
     },
     {
-      "text": "Elektrik akımının ölçü birimi hangisidir?",
-      "options": ["Amper", "Volt", "Ohm", "Watt"],
-      "correctAnswer": "Amper"
+      "text": "Galatasaray, 100. kuruluş yılını hangi sezonda kutlamıştır?",
+      "options": ["2000-2001", "2005-2006", "2006-2007", "2008-2009"],
+      "correctAnswer": "2005-2006"
     },
     {
-      "text": "Hz. Muhammed hangi şehirde doğmuştur?",
-      "options": ["Mekke", "Medine", "Kudüs", "Şam"],
-      "correctAnswer": "Mekke"
+      "text": "Galatasaray’ın efsane kaptanı Bülent Korkmaz’ın lakabı nedir?",
+      "options": ["Küçük Dev Adam", "Büyük Kaptan", "Sinyor", "Cengaver"],
+      "correctAnswer": "Büyük Kaptan"
     },
     {
-      "text": "Romen rakamlarında 'X' hangi sayıyı temsil eder?",
-      "options": ["10", "5", "50", "100"],
-      "correctAnswer": "10"
+      "text": "Galatasaray’ın basketbol şubesinin resmî adı nedir?",
+      "options": [
+        "Galatasaray Basketbol Takımı",
+        "Galatasaray Doğa Sigorta",
+        "Galatasaray Nef",
+        "Galatasaray Beko"
+      ],
+      "correctAnswer": "Galatasaray Nef"
     },
     {
-      "text": "Aşağıdakilerden hangisi ısının yayılma yollarından biri değildir?",
-      "options": ["İletim", "Işınım", "Konveksiyon", "Kondansasyon"],
-      "correctAnswer": "Kondansasyon"
+      "text": "Galatasaray’ın kuruluş amacı başlangıçta neydi?",
+      "options": [
+        "Askerî talim yapmak",
+        "İstanbul’un farklı semtlerinde arkadaşlık kurmak",
+        "Farklı takımlarla mücadele edebilecek bir futbol takımı kurmak",
+        "İzcilik faaliyetleri düzenlemek"
+      ],
+      "correctAnswer": "Farklı takımlarla mücadele edebilecek bir futbol takımı kurmak"
+    },
+    {
+      "text": "Galatasaray’ın armasında bulunan harflerin ilki (G), hangi renkle tasvir edilir?",
+      "options": ["Siyah", "Beyaz", "Sarı", "Kırmızı"],
+      "correctAnswer": "Sarı"
+    },
+    {
+      "text": "Galatasaray’ın armasında bulunan harflerin ikincisi (S), hangi renkle tasvir edilir?",
+      "options": ["Mavi", "Yeşil", "Sarı", "Kırmızı"],
+      "correctAnswer": "Kırmızı"
+    },
+    {
+      "text": "Galatasaray'ın en eski ve köklü dergilerinden biri olarak bilinen yayın organının adı nedir?",
+      "options": ["Galatasaray Postası", "Galatasaray Mecmuası", "Aslan Günlüğü", "Cimbom Bülteni"],
+      "correctAnswer": "Galatasaray Mecmuası"
+    },
+    {
+      "text": "Galatasaray'ın 2019-2020 sezonunda kaptanlığını yapan futbolcu hangisidir?",
+      "options": ["Selçuk İnan", "Fernando Muslera", "Mariano Ferreira", "Ryan Babel"],
+      "correctAnswer": "Selçuk İnan"
+    },
+    {
+      "text": "Galatasaray’ın 2019-2020 sezonunda Süper Lig gol krallığına ulaşan futbolcusu kimdir?",
+      "options": ["Falcao", "Ryan Babel", "Mbaye Diagne", "Adem Büyük"],
+      "correctAnswer": "Mbaye Diagne"
+    },
+    {
+      "text": "Galatasaray'ın efsanelerinden biri olan Gheorghe Hagi hangi ülkenin vatandaşıdır?",
+      "options": ["Türkiye", "Romanya", "Brezilya", "Bulgaristan"],
+      "correctAnswer": "Romanya"
+    },
+    {
+      "text": "Galatasaray'ın 'Cim Bom' lakabını aldığı söylenen dönemde takımın başkanı kimdi?",
+      "options": [
+        "Ali Sami Yen",
+        "Refik Cevdet Kalpakçıoğlu",
+        "Özhan Canaydın",
+        "Faruk Süren"
+      ],
+      "correctAnswer": "Refik Cevdet Kalpakçıoğlu"
+    },
+    {
+      "text": "Galatasaray, 2000 UEFA Kupası zaferine giden yarı finaldeki maçlarını hangi takıma karşı oynamıştır?",
+      "options": ["Bolton Wanderers", "Arsenal", "Leeds United", "Rangers"],
+      "correctAnswer": "Leeds United"
+    },
+    {
+      "text": "Galatasaray’ın 2021-2022 sezonunda teknik direktörlüğünü üstlenen isim kimdir?",
+      "options": ["Fatih Terim", "Domenec Torrent", "Hamza Hamzaoğlu", "Igor Tudor"],
+      "correctAnswer": "Domenec Torrent"
+    },
+    {
+      "text": "Galatasaray’ın tarihinde '10 numara' giyen ünlü Rumen futbolcu kimdir?",
+      "options": ["Bogdan Stancu", "Daniel Pancu", "Gheorghe Hagi", "Adrian Ilie"],
+      "correctAnswer": "Gheorghe Hagi"
+    },
+    {
+      "text": "Galatasaray’ın kurucusu Ali Sami Yen’in \"Kulübün amacı\" için söylediği sözlerden biri nedir?",
+      "options": [
+        "\"İstanbul’un tüm spor faaliyetlerini yönetmek\"",
+        "\"Bütün Türk gençlerini Galatasaray çatısı altında toplamak\"",
+        "\"Türk olmayan takımları yenmek\"",
+        "\"Dünya çapında ticari bir başarı sağlamak\""
+      ],
+      "correctAnswer": "\"Türk olmayan takımları yenmek\""
+    },
+    {
+      "text": "Galatasaray’ın ezeli rekabet yaşadığı 3 büyük rakip kulüp arasında aşağıdakilerden hangisi yer almaz?",
+      "options": ["Fenerbahçe", "Beşiktaş", "Trabzonspor", "Kayserispor"],
+      "correctAnswer": "Kayserispor"
+    },
+    {
+      "text": "Galatasaray’ın tribünlerinde sıkça kullanılan “Alemin Kralı…” diye başlayan tezahürat hangi takımı övmektedir?",
+      "options": ["Fenerbahçe", "Galatasaray", "Beşiktaş", "Trabzonspor"],
+      "correctAnswer": "Galatasaray"
+    },
+    {
+      "text": "Galatasaray’ın Süper Lig’de aldığı ilk şampiyonluğun teknik direktörü kimdir?",
+      "options": ["Gündüz Kılıç", "Coşkun Özarı", "Mustafa Denizli", "Brian Birch"],
+      "correctAnswer": "Gündüz Kılıç"
+    },
+    {
+      "text": "Galatasaray’ın bayan basketbol takımı 'Galatasaray Kadın Basketbol Takımı' ne zaman kurulmuştur?",
+      "options": ["1940", "1950", "1954", "1958"],
+      "correctAnswer": "1954"
+    },
+    {
+      "text": "Galatasaray, resmî internet sitesinde hangi kısaltmayı kullanmaktadır?",
+      "options": ["GS", "GSL", "GAL", "GSRay"],
+      "correctAnswer": "GS"
+    },
+    {
+      "text": "Galatasaray’ın şarkı, slogan ve marşlarının derlendiği özel albümün adı nedir?",
+      "options": [
+        "\"Cimbom Marşları\"",
+        "\"Aslanın Nidası\"",
+        "\"Cim Bom Şarkıları\"",
+        "\"Galatasaray Marşlar Antolojisi\""
+      ],
+      "correctAnswer": "\"Aslanın Nidası\""
+    },
+    {
+      "text": "Galatasaray’ın kulüp müzesi hangi semtte yer alır?",
+      "options": ["Levent", "Taksim", "Florya", "Galatasaray Lisesi binası içinde"],
+      "correctAnswer": "Galatasaray Lisesi binası içinde"
     }
   ]
 }
