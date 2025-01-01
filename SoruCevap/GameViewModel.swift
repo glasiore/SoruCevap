@@ -9,69 +9,20 @@ class GameViewModel: ObservableObject {
     @Published var totalGames = 0
     @Published var selectedAnswer: String?
     @Published var showCorrectAnswer = false
+    @Published var isLoading = false
+    @Published var errorMessage: String?
     
     private let userDefaults = UserDefaults.standard
     private let gameHistoryKey = "gameHistory"
     private let totalGamesKey = "totalGames"
     
-    private var allQuestions: [Question] = [
-        Question(
-            text: "Türkiye'nin başkenti neresidir?",
-            options: ["İstanbul", "Ankara", "İzmir", "Bursa"],
-            correctAnswer: "Ankara"
-        ),
-        Question(
-            text: "Hangi gezegen Güneş Sistemi'nin en büyük gezegenidir?",
-            options: ["Mars", "Venüs", "Jüpiter", "Satürn"],
-            correctAnswer: "Jüpiter"
-        ),
-        Question(
-            text: "İstanbul'un fethi hangi yılda gerçekleşmiştir?",
-            options: ["1453", "1454", "1455", "1456"],
-            correctAnswer: "1453"
-        ),
-        Question(
-            text: "Hangi element periyodik tabloda 'Fe' sembolü ile gösterilir?",
-            options: ["Flor", "Demir", "Fosfor", "Fermiyum"],
-            correctAnswer: "Demir"
-        ),
-        Question(
-            text: "Hangisi bir programlama dili değildir?",
-            options: ["Python", "Java", "HTML", "Ruby"],
-            correctAnswer: "HTML"
-        ),
-        Question(
-            text: "Dünya'nın en büyük okyanusu hangisidir?",
-            options: ["Atlas", "Hint", "Pasifik", "Arktik"],
-            correctAnswer: "Pasifik"
-        ),
-        Question(
-            text: "Hangi yıl Türkiye Cumhuriyeti kurulmuştur?",
-            options: ["1920", "1921", "1922", "1923"],
-            correctAnswer: "1923"
-        ),
-        Question(
-            text: "DNA'nın açılımı nedir?",
-            options: ["Deoksiribo Nükleik Asit", "Diribo Nükleik Asit", "Deoksiribo Nitrik Asit", "Diribo Nitrik Asit"],
-            correctAnswer: "Deoksiribo Nükleik Asit"
-        ),
-        Question(
-            text: "Hangi gezegen 'Kızıl Gezegen' olarak bilinir?",
-            options: ["Venüs", "Mars", "Jüpiter", "Merkür"],
-            correctAnswer: "Mars"
-        ),
-        Question(
-            text: "Hangisi bir Nobel ödül kategorisi değildir?",
-            options: ["Fizik", "Kimya", "Matematik", "Edebiyat"],
-            correctAnswer: "Matematik"
-        )
-    ]
-    
-    private var questions: [Question] = []
+    private let questionsURL = "https://raw.githubusercontent.com/KULLANICI_ADINIZ/REPO_ADINIZ/main/questions.json"
+    private var allQuestions: [Question] = []
     
     init() {
         loadGameHistory()
         totalGames = userDefaults.integer(forKey: totalGamesKey)
+        fetchQuestions()
     }
     
     private func loadGameHistory() {
@@ -174,5 +125,37 @@ class GameViewModel: ObservableObject {
         selectedAnswer = nil
         showCorrectAnswer = false
         totalGames -= 1
+    }
+    
+    private func fetchQuestions() {
+        isLoading = true
+        guard let url = URL(string: questionsURL) else {
+            errorMessage = "Geçersiz URL"
+            isLoading = false
+            return
+        }
+        
+        URLSession.shared.dataTask(with: url) { [weak self] data, response, error in
+            DispatchQueue.main.async {
+                self?.isLoading = false
+                
+                if let error = error {
+                    self?.errorMessage = "Hata: \(error.localizedDescription)"
+                    return
+                }
+                
+                guard let data = data else {
+                    self?.errorMessage = "Veri alınamadı"
+                    return
+                }
+                
+                do {
+                    let response = try JSONDecoder().decode(QuestionsResponse.self, from: data)
+                    self?.allQuestions = response.questions
+                } catch {
+                    self?.errorMessage = "JSON çözümlenemedi: \(error.localizedDescription)"
+                }
+            }
+        }.resume()
     }
 } 

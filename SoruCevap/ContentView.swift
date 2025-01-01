@@ -12,7 +12,22 @@ struct ContentView: View {
     
     var body: some View {
         NavigationStack {
-            if gameViewModel.isGameActive {
+            if gameViewModel.isLoading {
+                ProgressView("Sorular yükleniyor...")
+            } else if let error = gameViewModel.errorMessage {
+                VStack {
+                    Text("Hata!")
+                        .font(.title)
+                        .foregroundColor(.red)
+                    Text(error)
+                        .multilineTextAlignment(.center)
+                    Button("Tekrar Dene") {
+                        gameViewModel.fetchQuestions()
+                    }
+                    .padding()
+                }
+                .padding()
+            } else if gameViewModel.isGameActive {
                 QuestionView(viewModel: gameViewModel)
             } else if gameViewModel.questionIndex >= 10 {
                 ScoreView(viewModel: gameViewModel)

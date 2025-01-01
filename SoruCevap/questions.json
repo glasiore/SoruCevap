@@ -1,0 +1,294 @@
+{
+  "questions": [
+    {
+      "text": "Türkiye'nin başkenti neresidir?",
+      "options": ["İstanbul", "Ankara", "İzmir", "Bursa"],
+      "correctAnswer": "Ankara"
+    },
+    {
+      "text": "Türk bayrağının renkleri hangileridir?",
+      "options": ["Kırmızı-Beyaz", "Mavi-Beyaz", "Sarı-Kırmızı", "Yeşil-Beyaz"],
+      "correctAnswer": "Kırmızı-Beyaz"
+    },
+    {
+      "text": "Türkiye'nin nüfusu en fazla olan şehri hangisidir?",
+      "options": ["İstanbul", "Ankara", "İzmir", "Bursa"],
+      "correctAnswer": "İstanbul"
+    },
+    {
+      "text": "Türkiye hangi iki kıtada toprağa sahiptir?",
+      "options": ["Asya ve Avrupa", "Afrika ve Avrupa", "Asya ve Amerika", "Afrika ve Asya"],
+      "correctAnswer": "Asya ve Avrupa"
+    },
+    {
+      "text": "Türkiye'nin en uzun nehri hangisidir?",
+      "options": ["Kızılırmak", "Fırat", "Dicle", "Sakarya"],
+      "correctAnswer": "Kızılırmak"
+    },
+    {
+      "text": "Aşağıdakilerden hangisi Türkiye'deki coğrafi bölgelerden biri değildir?",
+      "options": ["Marmara", "Orta Anadolu", "Ege", "Karayipler"],
+      "correctAnswer": "Karayipler"
+    },
+    {
+      "text": "Türk lirasının kısaltması nedir?",
+      "options": ["TL", "TR", "TK", "TY"],
+      "correctAnswer": "TL"
+    },
+    {
+      "text": "İstiklal Marşı'nın yazarı kimdir?",
+      "options": ["Mehmet Akif Ersoy", "Ziya Gökalp", "Ahmet Hamdi Tanpınar", "Yahya Kemal Beyatlı"],
+      "correctAnswer": "Mehmet Akif Ersoy"
+    },
+    {
+      "text": "Aşağıdaki şehirlerden hangisi Karadeniz Bölgesi'nde bulunur?",
+      "options": ["Trabzon", "Antalya", "Gaziantep", "Edirne"],
+      "correctAnswer": "Trabzon"
+    },
+    {
+      "text": "Aşağıdaki dağlardan hangisi Türkiye'de bulunmaz?",
+      "options": ["Ağrı Dağı", "Uludağ", "K2 Dağı", "Toroslar"],
+      "correctAnswer": "K2 Dağı"
+    },
+    {
+      "text": "Türkiye'nin en büyük yüzölçümüne sahip ili hangisidir?",
+      "options": ["Konya", "Ankara", "Sivas", "Mersin"],
+      "correctAnswer": "Konya"
+    },
+    {
+      "text": "Aşağıdakilerden hangisi Osmanlı padişahlarından biri değildir?",
+      "options": [
+        "Fatih Sultan Mehmet",
+        "Kanuni Sultan Süleyman",
+        "Sultan Abdülhamid II",
+        "Mustafa Kemal Atatürk"
+      ],
+      "correctAnswer": "Mustafa Kemal Atatürk"
+    },
+    {
+      "text": "Türkiye'de 23 Nisan hangi bayram olarak kutlanır?",
+      "options": [
+        "Ulusal Egemenlik ve Çocuk Bayramı",
+        "Cumhuriyet Bayramı",
+        "Zafer Bayramı",
+        "Gençlik ve Spor Bayramı"
+      ],
+      "correctAnswer": "Ulusal Egemenlik ve Çocuk Bayramı"
+    },
+    {
+      "text": "19 Mayıs hangi bayramdır?",
+      "options": [
+        "Gençlik ve Spor Bayramı",
+        "Ulusal Egemenlik ve Çocuk Bayramı",
+        "Zafer Bayramı",
+        "Cumhuriyet Bayramı"
+      ],
+      "correctAnswer": "Gençlik ve Spor Bayramı"
+    },
+    {
+      "text": "Atatürk'ün doğum yeri neresidir?",
+      "options": ["Selanik", "Samsun", "Ankara", "İstanbul"],
+      "correctAnswer": "Selanik"
+    },
+    {
+      "text": "Aşağıdakilerden hangisi Cumhuriyet'in ilan edildiği yıldır?",
+      "options": ["1920", "1921", "1922", "1923"],
+      "correctAnswer": "1923"
+    },
+    {
+      "text": "Türkiye hangi yılda NATO'ya katılmıştır?",
+      "options": ["1950", "1952", "1960", "1974"],
+      "correctAnswer": "1952"
+    },
+    {
+      "text": "Ayasofya hangi ilimizdedir?",
+      "options": ["İstanbul", "Ankara", "Bursa", "Edirne"],
+      "correctAnswer": "İstanbul"
+    },
+    {
+      "text": "Pamukkale travertenleri hangi ilimizde yer alır?",
+      "options": ["Denizli", "Muğla", "Antalya", "İzmir"],
+      "correctAnswer": "Denizli"
+    },
+    {
+      "text": "Peri bacaları hangi ilimizde bulunur?",
+      "options": ["Nevşehir", "Kayseri", "Niğde", "Aksaray"],
+      "correctAnswer": "Nevşehir"
+    },
+    {
+      "text": "Mevlana Müzesi hangi ilimizdedir?",
+      "options": ["Konya", "Eskişehir", "Sivas", "Ankara"],
+      "correctAnswer": "Konya"
+    },
+    {
+      "text": "Türkiye'nin en büyük gölü hangisidir?",
+      "options": ["Van Gölü", "Tuz Gölü", "Beyşehir Gölü", "Sapanca Gölü"],
+      "correctAnswer": "Van Gölü"
+    },
+    {
+      "text": "Aşağıdakilerden hangisi Karadeniz'e kıyısı olan bir ülkedir?",
+      "options": ["Rusya", "Mısır", "Tunus", "Fas"],
+      "correctAnswer": "Rusya"
+    },
+    {
+      "text": "Türk Kurtuluş Savaşı hangi yıl başlamıştır?",
+      "options": ["1919", "1922", "1918", "1920"],
+      "correctAnswer": "1919"
+    },
+    {
+      "text": "Osmanlı Devleti hangi olay sonrası yıkılmıştır?",
+      "options": [
+        "I. Dünya Savaşı",
+        "Kurtuluş Savaşı",
+        "Balkan Savaşları",
+        "Trablusgarp Savaşı"
+      ],
+      "correctAnswer": "I. Dünya Savaşı"
+    },
+    {
+      "text": "Türkiye'de en yaygın din hangisidir?",
+      "options": ["İslam", "Hristiyanlık", "Yahudilik", "Budizm"],
+      "correctAnswer": "İslam"
+    },
+    {
+      "text": "Aşağıdakilerden hangisi Türk mutfağından bir yemek değildir?",
+      "options": ["Mantı", "Sushi", "Kebap", "Lahmacun"],
+      "correctAnswer": "Sushi"
+    },
+    {
+      "text": "Aşağıdaki illerden hangisi Güneydoğu Anadolu Bölgesi'nde yer alır?",
+      "options": ["Diyarbakır", "Antalya", "İzmir", "Bolu"],
+      "correctAnswer": "Diyarbakır"
+    },
+    {
+      "text": "Hamlet adlı eser hangi ünlü yazara aittir?",
+      "options": [
+        "William Shakespeare",
+        "Fyodor Dostoyevski",
+        "Orhan Pamuk",
+        "Tolstoy"
+      ],
+      "correctAnswer": "William Shakespeare"
+    },
+    {
+      "text": "Dünyanın en yüksek şelalesi hangi kıtadadır? (Angel Şelalesi)",
+      "options": ["Güney Amerika", "Asya", "Kuzey Amerika", "Avrupa"],
+      "correctAnswer": "Güney Amerika"
+    },
+    {
+      "text": "Güneş Sistemindeki en büyük gezegen hangisidir?",
+      "options": ["Jüpiter", "Satürn", "Dünya", "Neptün"],
+      "correctAnswer": "Jüpiter"
+    },
+    {
+      "text": "Aşağıdaki gezegenlerden hangisi Güneş'e daha yakındır?",
+      "options": ["Venüs", "Mars", "Jüpiter", "Satürn"],
+      "correctAnswer": "Venüs"
+    },
+    {
+      "text": "İngiltere'nin başkenti neresidir?",
+      "options": ["Londra", "Berlin", "Paris", "Manchester"],
+      "correctAnswer": "Londra"
+    },
+    {
+      "text": "E = mc² formülünü geliştiren ünlü bilim insanı kimdir?",
+      "options": ["Albert Einstein", "Isaac Newton", "Marie Curie", "Nikola Tesla"],
+      "correctAnswer": "Albert Einstein"
+    },
+    {
+      "text": "Türk Edebiyatında millî romantizm akımının öncülerinden biri sayılan şair kimdir?",
+      "options": [
+        "Mehmet Emin Yurdakul",
+        "Namık Kemal",
+        "Yunus Emre",
+        "Tevfik Fikret"
+      ],
+      "correctAnswer": "Mehmet Emin Yurdakul"
+    },
+    {
+      "text": "Sümerler çivi yazısını ilk kullanan medeniyet olarak bilinir. Sümerler hangi bölgede yaşamıştır?",
+      "options": ["Mezopotamya", "Mısır", "Anadolu", "Yunanistan"],
+      "correctAnswer": "Mezopotamya"
+    },
+    {
+      "text": "Yarıçapı 7 olan bir dairenin alanı kaç birim²'dir? (π=3,14 alınız)",
+      "options": ["153,86", "150,72", "105,86", "49"],
+      "correctAnswer": "153,86"
+    },
+    {
+      "text": "Aşağıdakilerden hangisi Türk Halk Müziği sanatçısıdır?",
+      "options": ["Aşık Veysel", "Ajda Pekkan", "Tarkan", "Sezen Aksu"],
+      "correctAnswer": "Aşık Veysel"
+    },
+    {
+      "text": "'Hababam Sınıfı' filmini yöneten ünlü Türk sinemacısı kimdir?",
+      "options": ["Ertem Eğilmez", "Memduh Ün", "Kartal Tibet", "Atıf Yılmaz"],
+      "correctAnswer": "Ertem Eğilmez"
+    },
+    {
+      "text": "İzmir hangi coğrafi bölgemizdedir?",
+      "options": [
+        "Ege Bölgesi",
+        "Akdeniz Bölgesi",
+        "Marmara Bölgesi",
+        "İç Anadolu Bölgesi"
+      ],
+      "correctAnswer": "Ege Bölgesi"
+    },
+    {
+      "text": "Matematikte mutlak değer hangi sembolle gösterilir?",
+      "options": ["| |", "# #", "()", "[]"],
+      "correctAnswer": "| |"
+    },
+    {
+      "text": "İlk Çağ'da yazı hangi medeniyet tarafından bulunmuştur?",
+      "options": ["Sümerler", "Hititler", "Babiller", "Asurlular"],
+      "correctAnswer": "Sümerler"
+    },
+    {
+      "text": "Dünyanın en büyük okyanusu hangisidir?",
+      "options": [
+        "Pasifik Okyanusu",
+        "Atlantik Okyanusu",
+        "Hint Okyanusu",
+        "Arktik Okyanusu"
+      ],
+      "correctAnswer": "Pasifik Okyanusu"
+    },
+    {
+      "text": "Ünlü matematikçi Pisagor (Pythagoras) hangi ülkede doğmuştur?",
+      "options": ["Yunanistan", "Mısır", "İtalya", "Türkiye"],
+      "correctAnswer": "Yunanistan"
+    },
+    {
+      "text": "Altın Oran yaklaşık olarak hangi sayıya eşittir?",
+      "options": ["1,618", "1,414", "1,732", "3,141"],
+      "correctAnswer": "1,618"
+    },
+    {
+      "text": "Suyun donma noktası kaç derecedir?",
+      "options": ["0°C", "32°C", "100°C", "-1°C"],
+      "correctAnswer": "0°C"
+    },
+    {
+      "text": "Elektrik akımının ölçü birimi hangisidir?",
+      "options": ["Amper", "Volt", "Ohm", "Watt"],
+      "correctAnswer": "Amper"
+    },
+    {
+      "text": "Hz. Muhammed hangi şehirde doğmuştur?",
+      "options": ["Mekke", "Medine", "Kudüs", "Şam"],
+      "correctAnswer": "Mekke"
+    },
+    {
+      "text": "Romen rakamlarında 'X' hangi sayıyı temsil eder?",
+      "options": ["10", "5", "50", "100"],
+      "correctAnswer": "10"
+    },
+    {
+      "text": "Aşağıdakilerden hangisi ısının yayılma yollarından biri değildir?",
+      "options": ["İletim", "Işınım", "Konveksiyon", "Kondansasyon"],
+      "correctAnswer": "Kondansasyon"
+    }
+  ]
+}
