@@ -3,37 +3,44 @@
     {
       "text": "Galatasaray Futbol Kulübü hangi tarihte kurulmuştur?",
       "options": ["1905", "1907", "1911", "1923"],
-      "correctAnswer": "1905"
+      "correctAnswer": "1905",
+      "category": "sports"
     },
     {
       "text": "Galatasaray Futbol Kulübü hangi lisede kurulmuştur?",
       "options": ["Vefa Lisesi", "Kabataş Erkek Lisesi", "Pertevniyal Lisesi", "Galatasaray Lisesi"],
-      "correctAnswer": "Galatasaray Lisesi"
+      "correctAnswer": "Galatasaray Lisesi",
+      "category": "sports"
     },
     {
       "text": "Galatasaray'ın kulüp renkleri hangileridir?",
       "options": ["Siyah-Beyaz", "Kırmızı-Beyaz", "Sarı-Kırmızı", "Lacivert-Beyaz"],
-      "correctAnswer": "Sarı-Kırmızı"
+      "correctAnswer": "Sarı-Kırmızı",
+      "category": "sports"
     },
     {
       "text": "Galatasaray'ı kuran isim kimdir?",
       "options": ["Ali Sami Yen", "Şehzade Abdülmecid", "Burhan Felek", "Faik Üstünidman"],
-      "correctAnswer": "Ali Sami Yen"
+      "correctAnswer": "Ali Sami Yen",
+      "category": "sports"
     },
     {
       "text": "Galatasaray'ın ilk başkanı kimdir?",
       "options": ["Faruk Süren", "Ünal Aysal", "Mustafa Cengiz", "Ali Sami Yen"],
-      "correctAnswer": "Ali Sami Yen"
+      "correctAnswer": "Ali Sami Yen",
+      "category": "sports"
     },
     {
       "text": "Galatasaray'ın 'Taçsız Kral' lakaplı efsane futbolcusu kimdir?",
       "options": ["Hakan Şükür", "Metin Oktay", "Arif Erdem", "Tanju Çolak"],
-      "correctAnswer": "Metin Oktay"
+      "correctAnswer": "Metin Oktay",
+      "category": "sports"
     },
     {
       "text": "Galatasaray'ın taraftar gruplarından birinin adı nedir?",
       "options": ["Çarşı", "Grup UltraAslan", "Şimşekler Grubu", "Genç Fenerbahçeliler"],
-      "correctAnswer": "Grup UltraAslan"
+      "correctAnswer": "Grup UltraAslan",
+      "category": "sports"
     },
     {
       "text": "Galatasaray Futbol Takımı maçlarını hangi stadyumda oynamaktadır?",
@@ -43,7 +50,8 @@
         "Vodafone Park",
         "Atatürk Olimpiyat Stadyumu"
       ],
-      "correctAnswer": "Ali Sami Yen Spor Kompleksi Nef Stadyumu"
+      "correctAnswer": "Ali Sami Yen Spor Kompleksi Nef Stadyumu",
+      "category": "sports"
     },
     {
       "text": "Galatasaray'ın formasında kullandığı renkler ilk olarak ne ile anılmıştır?",
@@ -53,42 +61,49 @@
         "Lale devri ve İstanbul’un incisi",
         "Sarı limon ve kırmızı domates"
       ],
-      "correctAnswer": "Aslan sarısı ve kan kırmızısı"
+      "correctAnswer": "Aslan sarısı ve kan kırmızısı",
+      "category": "sports"
     },
     {
       "text": "Galatasaray, 2000 yılında hangi Avrupa kupasını kazanarak büyük bir başarı elde etmiştir?",
       "options": ["Şampiyonlar Ligi", "Kupa Galipleri Kupası", "UEFA Kupası", "Intertoto Kupası"],
-      "correctAnswer": "UEFA Kupası"
+      "correctAnswer": "UEFA Kupası",
+      "category": "sports"
     },
     {
       "text": "Galatasaray'ın UEFA Kupası’nı kazandığı 2000 yılındaki finalde karşılaştığı takım hangisidir?",
       "options": ["Milan", "Real Madrid", "Arsenal", "Barcelona"],
-      "correctAnswer": "Arsenal"
+      "correctAnswer": "Arsenal",
+      "category": "sports"
     },
     {
       "text": "Galatasaray'ın UEFA Kupası’nı kazandığı final maçı hangi şehirde oynanmıştır?",
       "options": ["Kopenhag", "Roma", "Paris", "Münih"],
-      "correctAnswer": "Kopenhag"
+      "correctAnswer": "Kopenhag",
+      "category": "sports"
     },
     {
       "text": "Galatasaray'ın 2000 yılında UEFA Süper Kupası’nı kazandığı maçta rakibi hangi kulüptür?",
       "options": ["Manchester United", "Liverpool", "Real Madrid", "Valencia"],
-      "correctAnswer": "Real Madrid"
+      "correctAnswer": "Real Madrid",
+      "category": "sports"
     },
     {
       "text": "Galatasaray'ın simge hayvanı hangisidir?",
       "options": ["Aslan", "Kartal", "Boğa", "Kanarya"],
-      "correctAnswer": "Aslan"
+      "correctAnswer": "Aslan",
+      "category": "sports"
     },
     {
-      "text": "Galatasaray'ın armasında yer alan harfler hangi anlamı taşır?",
+      "text": "Galatasaray'ın armasındaki G ve S harfleri neyi simgeler?",
       "options": [
-        "G ve S harfleri Galatasaray Spor’u simgeler",
-        "GLT harfleri, kurucu isimlerin baş harfleridir",
-        "I ve S harfleri İstanbul Spor’u simgeler",
-        "Tümü rastgele seçilen harflerdir"
+        "Galip ve Sultan kelimelerinin baş harflerini",
+        "Kulübün kurucusu Ali Sami Yen'in baş harflerini",
+        "Galatasaray Spor’un baş harflerini",
+        "Galatasaray Lisesi’nin kısaltmasını"
       ],
-      "correctAnswer": "G ve S harfleri Galatasaray Spor’u simgeler"
+      "correctAnswer": "Galatasaray Spor’un baş harflerini",
+      "category": "sports"
     },
     {
       "text": "Galatasaray'ın kulüp mottosu olarak bilinen kısa söz hangisidir?",
@@ -98,62 +113,73 @@
         "\"Hep Destek Tam Destek\"",
         "\"Şanlı Galatasaray\""
       ],
-      "correctAnswer": "\"Tek Büyük Galatasaray\""
+      "correctAnswer": "\"Tek Büyük Galatasaray\"",
+      "category": "sports"
     },
     {
       "text": "Galatasaray'ın en çok gol atan efsane forveti olarak bilinen futbolcu kimdir?",
-      "options": ["Hakan Şükür", "Burak Yılmaz", "Drogba", "Uğur Boral"],
-      "correctAnswer": "Hakan Şükür"
+      "options": ["Hakan Şükür", "Burak Yılmaz", "Didier Drogba", "Tanju Çolak"],
+      "correctAnswer": "Hakan Şükür",
+      "category": "sports"
     },
     {
       "text": "Galatasaray'ın tarihindeki unutulmaz teknik direktör, 'İmparator' lakabıyla da anılan isim kimdir?",
-      "options": ["Mustafa Denizli", "Fatih Terim", "Mircea Lucescu", "Erik Gerets"],
-      "correctAnswer": "Fatih Terim"
+      "options": ["Mustafa Denizli", "Fatih Terim", "Mircea Lucescu", "Eric Gerets"],
+      "correctAnswer": "Fatih Terim",
+      "category": "sports"
     },
     {
       "text": "Galatasaray'ın UEFA Süper Kupa şampiyonluğunu kazandığı yıl hangisidir?",
       "options": ["1996", "2000", "2002", "2005"],
-      "correctAnswer": "2000"
+      "correctAnswer": "2000",
+      "category": "sports"
     },
     {
-      "text": "Galatasaray'ın 14 yıl boyunca başkanlık görevini üstlenen ilk başkanı kimdir?",
-      "options": ["Ali Sami Yen", "Faruk Süren", "Ünal Aysal", "Selahattin Beyazıt"],
-      "correctAnswer": "Ali Sami Yen"
+      "text": "Galatasaray'ın kurucu başkanı Ali Sami Yen, başkanlık görevini kaç yıl sürdürmüştür?",
+      "options": ["4", "14", "24", "34"],
+      "correctAnswer": "14",
+      "category": "sports"
     },
     {
-      "text": "Galatasaray, 'Süper Lig' tarihinde ilk şampiyonluğunu hangi yıl elde etmiştir?",
-      "options": ["1945", "1959", "1962", "1969"],
-      "correctAnswer": "1962"
+      "text": "Galatasaray, Süper Lig tarihinde ilk şampiyonluğunu hangi yıl elde etmiştir?",
+      "options": ["1959", "1962", "1965", "1968"],
+      "correctAnswer": "1962",
+      "category": "sports"
     },
     {
-      "text": "Galatasaray'ın 'Taçsız Kral' lakabıyla anılan efsane golcüsü hangi dönemde forma giymiştir?",
+      "text": "Galatasaray'ın 'Taçsız Kral' lakabıyla anılan efsane golcüsü Metin Oktay, hangi dönemde forma giymiştir?",
       "options": [
         "1950'ler ve 1960'lar",
         "1970'ler ve 1980'ler",
         "1990'lar",
         "2000'ler"
       ],
-      "correctAnswer": "1950'ler ve 1960'lar"
+      "correctAnswer": "1950'ler ve 1960'lar",
+      "category": "sports"
     },
     {
-      "text": "Galatasaray’ın efsane kalecilerinden biri olan ve 2000'de UEFA zaferinde pay sahibi olan Brezilyalı futbolcu kimdir?",
+      "text": "Galatasaray’ın 2000’deki UEFA zaferinde pay sahibi olan Brezilyalı efsane kalecisi kimdir?",
       "options": ["Taffarel", "Muslera", "Mondragon", "Zubizarreta"],
-      "correctAnswer": "Taffarel"
+      "correctAnswer": "Taffarel",
+      "category": "sports"
     },
     {
       "text": "Galatasaray'ın 2012-2013 Şampiyonlar Ligi çeyrek finalinde elendiği takım hangisidir?",
       "options": ["Chelsea", "Real Madrid", "Juventus", "Bayern Münih"],
-      "correctAnswer": "Real Madrid"
+      "correctAnswer": "Real Madrid",
+      "category": "sports"
     },
     {
       "text": "Galatasaray'ın 2011-2012 sezonunda Süper Lig şampiyonluğunu ilan ettiği maç hangi rakibe karşı oynanmıştır?",
       "options": ["Trabzonspor", "Fenerbahçe", "Beşiktaş", "Bursaspor"],
-      "correctAnswer": "Fenerbahçe"
+      "correctAnswer": "Fenerbahçe",
+      "category": "sports"
     },
     {
-      "text": "Galatasaray'ın 1988-1989 sezonunda Şampiyon Kulüpler Kupası'nda yarı finale yükselme başarısını gösterdiği turda hangi takımı elemiştir?",
+      "text": "Galatasaray'ın 1988-1989 sezonunda Şampiyon Kulüpler Kupası'nda yarı finale yükselme başarısı için elediği takım hangisidir?",
       "options": ["Monaco", "Juventus", "Steaua Bükreş", "PSV Eindhoven"],
-      "correctAnswer": "Monaco"
+      "correctAnswer": "Monaco",
+      "category": "sports"
     },
     {
       "text": "Galatasaray taraftarının sıkça kullandığı, takıma destek sloganı hangisidir?",
@@ -163,12 +189,14 @@
         "\"Yaşa Be Fener\"",
         "\"Aşk Seninle Başlar\""
       ],
-      "correctAnswer": "\"Cim Bom Bom\""
+      "correctAnswer": "\"Cim Bom Bom\"",
+      "category": "sports"
     },
     {
       "text": "Galatasaray, Ali Sami Yen Stadyumu'ndan yeni stadına hangi sezonda geçmiştir?",
       "options": ["2008-2009", "2010-2011", "2011-2012", "2016-2017"],
-      "correctAnswer": "2010-2011"
+      "correctAnswer": "2010-2011",
+      "category": "sports"
     },
     {
       "text": "Galatasaray ile Fenerbahçe arasındaki derbiye ne ad verilir?",
@@ -178,12 +206,14 @@
         "Kıtalararası Derbi",
         "Boğaziçi Derbisi"
       ],
-      "correctAnswer": "Kıtalararası Derbi"
+      "correctAnswer": "Kıtalararası Derbi",
+      "category": "sports"
     },
     {
-      "text": "Galatasaray'ın 2002 yılında Şampiyonlar Ligi'nde grup aşamasında karşılaştığı ve 2-0 geriden 3-2 kazandığı unutulmaz maçtaki rakibi hangisidir?",
+      "text": "Galatasaray'ın 2002 yılında Şampiyonlar Ligi'nde 2-0 geriden 3-2 kazandığı unutulmaz maçtaki rakibi hangisidir?",
       "options": ["Real Madrid", "Olympiakos", "Lokomotiv Moskova", "Barcelona"],
-      "correctAnswer": "Real Madrid"
+      "correctAnswer": "Real Madrid",
+      "category": "sports"
     },
     {
       "text": "Galatasaray'ın Türkiye'de elde ettiği ilk resmi kupa hangisidir?",
@@ -193,32 +223,38 @@
         "Başbakanlık Kupası",
         "TSYD Kupası"
       ],
-      "correctAnswer": "Türkiye Kupası"
+      "correctAnswer": "Türkiye Kupası",
+      "category": "sports"
     },
     {
-      "text": "Galatasaray’ın uzun süre forma giyen ve 'Reyiz' lakabı verilen oyuncusu kimdir?",
+      "text": "Galatasaray’ın uzun süre forma giyen ve 'Reyiz' lakabıyla anılan oyuncusu kimdir?",
       "options": ["Selçuk İnan", "Arda Turan", "Sabri Sarıoğlu", "Hakan Balta"],
-      "correctAnswer": "Sabri Sarıoğlu"
+      "correctAnswer": "Sabri Sarıoğlu",
+      "category": "sports"
     },
     {
       "text": "Galatasaray’ın 2010-2011 sezonunda teknik direktörlüğünü yapan isim kimdir?",
       "options": ["Fatih Terim", "Frank Rijkaard", "Roberto Mancini", "Hamza Hamzaoğlu"],
-      "correctAnswer": "Frank Rijkaard"
+      "correctAnswer": "Frank Rijkaard",
+      "category": "sports"
     },
     {
       "text": "Galatasaray’ın UEFA Kupası’nı kazanmadan önce yarı finalde eşleştiği İngiliz takımı hangisidir?",
       "options": ["Leeds United", "Chelsea", "Arsenal", "Aston Villa"],
-      "correctAnswer": "Leeds United"
+      "correctAnswer": "Leeds United",
+      "category": "sports"
     },
     {
       "text": "Galatasaray, 100. kuruluş yılını hangi sezonda kutlamıştır?",
       "options": ["2000-2001", "2005-2006", "2006-2007", "2008-2009"],
-      "correctAnswer": "2005-2006"
+      "correctAnswer": "2005-2006",
+      "category": "sports"
     },
     {
       "text": "Galatasaray’ın efsane kaptanı Bülent Korkmaz’ın lakabı nedir?",
       "options": ["Küçük Dev Adam", "Büyük Kaptan", "Sinyor", "Cengaver"],
-      "correctAnswer": "Büyük Kaptan"
+      "correctAnswer": "Büyük Kaptan",
+      "category": "sports"
     },
     {
       "text": "Galatasaray’ın basketbol şubesinin resmî adı nedir?",
@@ -228,7 +264,8 @@
         "Galatasaray Nef",
         "Galatasaray Beko"
       ],
-      "correctAnswer": "Galatasaray Nef"
+      "correctAnswer": "Galatasaray Nef",
+      "category": "sports"
     },
     {
       "text": "Galatasaray’ın kuruluş amacı başlangıçta neydi?",
@@ -238,97 +275,114 @@
         "Farklı takımlarla mücadele edebilecek bir futbol takımı kurmak",
         "İzcilik faaliyetleri düzenlemek"
       ],
-      "correctAnswer": "Farklı takımlarla mücadele edebilecek bir futbol takımı kurmak"
+      "correctAnswer": "Farklı takımlarla mücadele edebilecek bir futbol takımı kurmak",
+      "category": "sports"
     },
     {
-      "text": "Galatasaray’ın armasında bulunan harflerin ilki (G), hangi renkle tasvir edilir?",
+      "text": "Galatasaray’ın armasında yer alan G harfi hangi renkle tasvir edilir?",
       "options": ["Siyah", "Beyaz", "Sarı", "Kırmızı"],
-      "correctAnswer": "Sarı"
+      "correctAnswer": "Sarı",
+      "category": "sports"
     },
     {
-      "text": "Galatasaray’ın armasında bulunan harflerin ikincisi (S), hangi renkle tasvir edilir?",
+      "text": "Galatasaray’ın armasında yer alan S harfi hangi renkle tasvir edilir?",
       "options": ["Mavi", "Yeşil", "Sarı", "Kırmızı"],
-      "correctAnswer": "Kırmızı"
+      "correctAnswer": "Kırmızı",
+      "category": "sports"
     },
     {
-      "text": "Galatasaray'ın en eski ve köklü dergilerinden biri olarak bilinen yayın organının adı nedir?",
+      "text": "Galatasaray'ın en eski ve köklü dergilerinden biri olan yayın organının adı nedir?",
       "options": ["Galatasaray Postası", "Galatasaray Mecmuası", "Aslan Günlüğü", "Cimbom Bülteni"],
-      "correctAnswer": "Galatasaray Mecmuası"
+      "correctAnswer": "Galatasaray Mecmuası",
+      "category": "sports"
     },
     {
       "text": "Galatasaray'ın 2019-2020 sezonunda kaptanlığını yapan futbolcu hangisidir?",
       "options": ["Selçuk İnan", "Fernando Muslera", "Mariano Ferreira", "Ryan Babel"],
-      "correctAnswer": "Selçuk İnan"
+      "correctAnswer": "Selçuk İnan",
+      "category": "sports"
     },
     {
       "text": "Galatasaray’ın 2019-2020 sezonunda Süper Lig gol krallığına ulaşan futbolcusu kimdir?",
       "options": ["Falcao", "Ryan Babel", "Mbaye Diagne", "Adem Büyük"],
-      "correctAnswer": "Mbaye Diagne"
+      "correctAnswer": "Mbaye Diagne",
+      "category": "sports"
     },
     {
       "text": "Galatasaray'ın efsanelerinden biri olan Gheorghe Hagi hangi ülkenin vatandaşıdır?",
       "options": ["Türkiye", "Romanya", "Brezilya", "Bulgaristan"],
-      "correctAnswer": "Romanya"
+      "correctAnswer": "Romanya",
+      "category": "sports"
     },
     {
-      "text": "Galatasaray'ın 'Cim Bom' lakabını aldığı söylenen dönemde takımın başkanı kimdi?",
+      "text": "Galatasaray'ın 'Cim Bom' lakabını aldığı dönemde kulüp başkanı olarak görev yapan isim kimdir?",
       "options": [
         "Ali Sami Yen",
         "Refik Cevdet Kalpakçıoğlu",
         "Özhan Canaydın",
         "Faruk Süren"
       ],
-      "correctAnswer": "Refik Cevdet Kalpakçıoğlu"
+      "correctAnswer": "Refik Cevdet Kalpakçıoğlu",
+      "category": "sports"
     },
     {
-      "text": "Galatasaray, 2000 UEFA Kupası zaferine giden yarı finaldeki maçlarını hangi takıma karşı oynamıştır?",
+      "text": "Galatasaray’ın 2000 UEFA Kupası zaferine giden yarı finaldeki rakibi hangi takımdı?",
       "options": ["Bolton Wanderers", "Arsenal", "Leeds United", "Rangers"],
-      "correctAnswer": "Leeds United"
+      "correctAnswer": "Leeds United",
+      "category": "sports"
     },
     {
       "text": "Galatasaray’ın 2021-2022 sezonunda teknik direktörlüğünü üstlenen isim kimdir?",
       "options": ["Fatih Terim", "Domenec Torrent", "Hamza Hamzaoğlu", "Igor Tudor"],
-      "correctAnswer": "Domenec Torrent"
+      "correctAnswer": "Domenec Torrent",
+      "category": "sports"
     },
     {
       "text": "Galatasaray’ın tarihinde '10 numara' giyen ünlü Rumen futbolcu kimdir?",
       "options": ["Bogdan Stancu", "Daniel Pancu", "Gheorghe Hagi", "Adrian Ilie"],
-      "correctAnswer": "Gheorghe Hagi"
+      "correctAnswer": "Gheorghe Hagi",
+      "category": "sports"
     },
     {
-      "text": "Galatasaray’ın kurucusu Ali Sami Yen’in \"Kulübün amacı\" için söylediği sözlerden biri nedir?",
+      "text": "Galatasaray’ın kurucusu Ali Sami Yen'in \"Kulübün amacı\" için söylediği sözlerden biri nedir?",
       "options": [
         "\"İstanbul’un tüm spor faaliyetlerini yönetmek\"",
         "\"Bütün Türk gençlerini Galatasaray çatısı altında toplamak\"",
         "\"Türk olmayan takımları yenmek\"",
         "\"Dünya çapında ticari bir başarı sağlamak\""
       ],
-      "correctAnswer": "\"Türk olmayan takımları yenmek\""
+      "correctAnswer": "\"Türk olmayan takımları yenmek\"",
+      "category": "sports"
     },
     {
-      "text": "Galatasaray’ın ezeli rekabet yaşadığı 3 büyük rakip kulüp arasında aşağıdakilerden hangisi yer almaz?",
+      "text": "Galatasaray’ın ezeli rekabet yaşadığı ve '3 büyükler' arasında yer alan rakipleri arasında aşağıdakilerden hangisi yoktur?",
       "options": ["Fenerbahçe", "Beşiktaş", "Trabzonspor", "Kayserispor"],
-      "correctAnswer": "Kayserispor"
+      "correctAnswer": "Kayserispor",
+      "category": "sports"
     },
     {
-      "text": "Galatasaray’ın tribünlerinde sıkça kullanılan “Alemin Kralı…” diye başlayan tezahürat hangi takımı övmektedir?",
+      "text": "Galatasaray’ın tribünlerinde sıkça kullanılan “Alemin Kralı…” diye başlayan tezahürat hangi takımı övmek için söylenir?",
       "options": ["Fenerbahçe", "Galatasaray", "Beşiktaş", "Trabzonspor"],
-      "correctAnswer": "Galatasaray"
+      "correctAnswer": "Galatasaray",
+      "category": "sports"
     },
     {
       "text": "Galatasaray’ın Süper Lig’de aldığı ilk şampiyonluğun teknik direktörü kimdir?",
       "options": ["Gündüz Kılıç", "Coşkun Özarı", "Mustafa Denizli", "Brian Birch"],
-      "correctAnswer": "Gündüz Kılıç"
+      "correctAnswer": "Gündüz Kılıç",
+      "category": "sports"
     },
     {
-      "text": "Galatasaray’ın bayan basketbol takımı 'Galatasaray Kadın Basketbol Takımı' ne zaman kurulmuştur?",
+      "text": "Galatasaray’ın bayan basketbol takımı 'Galatasaray Kadın Basketbol Takımı' hangi yıl kurulmuştur?",
       "options": ["1940", "1950", "1954", "1958"],
-      "correctAnswer": "1954"
+      "correctAnswer": "1954",
+      "category": "sports"
     },
     {
       "text": "Galatasaray, resmî internet sitesinde hangi kısaltmayı kullanmaktadır?",
       "options": ["GS", "GSL", "GAL", "GSRay"],
-      "correctAnswer": "GS"
+      "correctAnswer": "GS",
+      "category": "sports"
     },
     {
       "text": "Galatasaray’ın şarkı, slogan ve marşlarının derlendiği özel albümün adı nedir?",
@@ -338,12 +392,19 @@
         "\"Cim Bom Şarkıları\"",
         "\"Galatasaray Marşlar Antolojisi\""
       ],
-      "correctAnswer": "\"Aslanın Nidası\""
+      "correctAnswer": "\"Aslanın Nidası\"",
+      "category": "sports"
     },
     {
-      "text": "Galatasaray’ın kulüp müzesi hangi semtte yer alır?",
-      "options": ["Levent", "Taksim", "Florya", "Galatasaray Lisesi binası içinde"],
-      "correctAnswer": "Galatasaray Lisesi binası içinde"
+      "text": "Galatasaray’ın kulüp müzesi hangi konumda ziyaretçilere açıktır?",
+      "options": [
+        "Levent'te özel bir binada",
+        "Taksim'de GS Store içinde",
+        "Florya Metin Oktay Tesisleri'nde",
+        "Galatasaray Lisesi binası içinde"
+      ],
+      "correctAnswer": "Galatasaray Lisesi binası içinde",
+      "category": "sports"
     }
   ]
 }
